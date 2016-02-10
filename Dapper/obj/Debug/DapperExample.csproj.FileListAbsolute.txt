@@ -1,0 +1,9 @@
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\Dapper\Dapper\bin\Debug\Dapper.pdb
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\Dapper\Dapper\bin\Debug\Dapper.dll
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\Dapper\Dapper\bin\Debug\Dapper.xml
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\Dapper\Dapper\bin\Debug\DapperExample.exe.config
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\Dapper\Dapper\bin\Debug\DapperExample.exe
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\Dapper\Dapper\bin\Debug\DapperExample.pdb
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\Dapper\Dapper\obj\Debug\DapperExample.exe
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\Dapper\Dapper\obj\Debug\DapperExample.pdb
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\Dapper\Dapper\obj\Debug\DapperExample.csprojResolveAssemblyReference.cache
